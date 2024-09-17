@@ -1,0 +1,22 @@
+/* Event component styles */
+.Event {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 5px;
+}
+
+/* Custom vibrant colors */
+.pink {
+    background-color: #ff69b4; /* Vibrant pink */
+}
+
+.blue {
+    background-color: #1e90ff; /* Vibrant blue */
+}
+
+.green {
+    background-color: #32cd32; /* Vibrant green */
+}

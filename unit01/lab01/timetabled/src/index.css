@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  transform: scale(0.9); /* Adjust the scale value as needed */
+  transform-origin: top left; /* Ensure the scaling starts from the top left corner */
+}
+
+th {
+  width: 120px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+td {
+  padding: 5px;
+}
+
+.time {
+  height: 40px;
+}
